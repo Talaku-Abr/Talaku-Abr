@@ -11,7 +11,6 @@ I specialize in building high-throughput **Go microservices**, enterprise **ERP 
 ### 🚀 What I'm Working On (Current Role)
 
 * 🏢 **Betwo Tech PLC ("ቤትዎ") & Paxpia Technologies:** Leading engineering teams, technical direction, and project delivery.
-* 📦 **Enterprise ERP Suite:** Engineered core modules for the **Oromia Prosperity Party ERP** (HRMS, Financial Accounting, Member & Fixed Asset Management) and **HART ERP**.
 * 🚌 **Redat Transit Platform:** Architected 11 domain-driven Go microservices behind an NGINX API gateway with asymmetric JWT (RS256) auth, double-entry ledger wallets, Redis SetNX idempotency engines, and Kafka streaming.
 
 ---
