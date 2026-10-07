@@ -4,13 +4,13 @@
 
 I am a Software Engineer and Engineering Team Lead based in **Addis Ababa, Ethiopia** with a background in Electrical & Computer Engineering (Addis Ababa University '20). 
 
-I specialize in building high-throughput **Go microservices**, enterprise **ERP platforms ("ቤትዎ")**, financial-grade double-entry ledgers, **event-driven streaming (Kafka)**, **Kubernetes** infrastructure, and cross-platform **Flutter & React** client applications.
+I specialize in building high-throughput **Go microservices**, financial-grade double-entry ledgers, **event-driven streaming (Kafka)**, **Kubernetes** infrastructure, and cross-platform **Flutter & React** client applications. I also build **ERP systems**.
 
 ---
 
 ### 🚀 What I'm Working On (Current Role)
 
-* 🏢 **Betwo Tech PLC ("ቤትዎ") & Paxpia Technologies:** Leading engineering teams, technical direction, and project delivery.
+* 🏢 **Betwo Tech PLC & Paxpia Technologies:** Leading engineering teams, technical direction, and project delivery.
 * 🚌 **Redat Transit Platform:** Architected 11 domain-driven Go microservices behind an NGINX API gateway with asymmetric JWT (RS256) auth, double-entry ledger wallets, Redis SetNX idempotency engines, and Kafka streaming.
 
 ---
