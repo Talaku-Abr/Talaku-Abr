@@ -55,7 +55,7 @@ Foundations         :: C#, .NET, Python, Django, Java EE, Atmega16/AVR, C/C++
 ### 🌐 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/abraham-zerfu-t](https://www.linkedin.com/in/abraham-zerfu-t/)
-* 📧 **Email:** [talakuabraham@gmail.com](mailto:talakuabraham@gmail.com)
+* 📧 **Email:** [talakuabrahamw@gmail.com](mailto:talakuabrahamw@gmail.com)
 * 🌐 **Interactive 3D Portfolio:** [Talaku-Abr/portfolio2](https://github.com/Talaku-Abr/portfolio2)
 
 ---
