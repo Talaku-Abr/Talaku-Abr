@@ -61,6 +61,6 @@ Foundations         :: C#, .NET, Python, Django, Java EE, Atmega16/AVR, C/C++
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talaku-Abr&show_icons=true&theme=dark&hide_border=true" alt="Talaku's GitHub Stats" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=Talaku-Abr&theme=dark&hide_border=true&starting_year=2026" alt="Talaku's 2026 GitHub Contributions" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talaku-Abr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
 </p>
