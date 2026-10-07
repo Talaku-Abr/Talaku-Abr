@@ -60,7 +60,11 @@ Foundations         :: C#, .NET, Python, Django, Java EE, Atmega16/AVR, C/C++
 
 ---
 
+### 📊 At a Glance
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Talaku-Abr&theme=dark&hide_border=true&starting_year=2026" alt="Talaku's 2026 GitHub Contributions" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talaku-Abr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://img.shields.io/badge/Go_Microservices_Architected-11-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="11 Go microservices architected" />
+  <img src="https://img.shields.io/badge/Building_Software_Since-2019-2ea043?style=for-the-badge" alt="Building software since 2019" />
+  <img src="https://img.shields.io/badge/Harvard_CS50_Certificates-4-A51C30?style=for-the-badge" alt="4 Harvard CS50 certificates" />
+  <img src="https://img.shields.io/badge/Role-Engineering_Team_Lead-6f42c1?style=for-the-badge" alt="Engineering team lead" />
 </p>
